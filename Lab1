@@ -1,0 +1,26 @@
+h1{
+	
+	color : black;	
+	border : 5px solid black;
+	width : 50%;
+	font-size : 40px;
+	font-weight : normal;
+	text-align :center;
+	text-align:center;
+	display:inline-block;
+	font-family:Helvetica;
+}
+.heading{
+	
+	text-align:center;
+	font-family : Helvetica;
+	
+}
+
+.pictures{
+	
+	height : 25%;
+	text-align : center;
+	margin:60px;
+	
+}
